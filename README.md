@@ -30,7 +30,7 @@ Open for development. If you want to attack the central hypothesis — especiall
 
 ## How to cite
 
-> Max (2026). *The First Distinction: A map of intuition put to the test.* Available at: [repository URL]. Licensed under CC BY 4.0.
+> Max (2026). *The First Distinction: A map of intuition put to the test.* Available at: https://github.com/maxilemx/the-first-distinction. Licensed under CC BY 4.0.
 
 ## License
 
